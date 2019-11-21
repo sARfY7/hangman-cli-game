@@ -1,0 +1,22 @@
+{
+  "name": "hangman-cli-game",
+  "version": "1.0.0",
+  "description": "CLI version of Hangman game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sARfY7/hangman-cli-game.git"
+  },
+  "author": "Sarfaraz Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sARfY7/hangman-cli-game/issues"
+  },
+  "homepage": "https://github.com/sARfY7/hangman-cli-game#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
